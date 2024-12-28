@@ -17,7 +17,7 @@ SetEvents require notifications permission from your device solely for the purpo
 SetEvents does not integrate with any third-party services, APIs, or analytics tools.
 
 ## Updates to This Policy
-Any changes or updates to this policy will be reflected on this page. It is highly recommended to review this policy on every app update.
+I, Nowroz Islam, the developer and owner of the SetEvents app, reserve the rights to update or modify this Privacy Policy. Any changes or updates to this policy will be reflected on this page. It is highly recommended to review this policy on every app update.
 
 ## Contact Us
 This page is maintained by Nowroz Islam, the developer and owner of the SetEvents app. If you have any questions or concerns regarding the app and/or this Privacy Policy, please contact -
