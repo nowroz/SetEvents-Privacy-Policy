@@ -20,6 +20,6 @@ SetEvents does not integrate with any third-party services, APIs, or analytics t
 Any changes or updates to this policy will be reflected on this page. It is highly recommended to review this policy on every app update.
 
 ## Contact Us
-This page is maintained by Nowroz Islam, the developer and owner of the SetEvents app. If you have any questions or concerns regarding this Privacy Policy, please contact -
+This page is maintained by Nowroz Islam, the developer and owner of the SetEvents app. If you have any questions or concerns regarding the app and/or this Privacy Policy, please contact -
   - Nowroz Islam
   - isl.nowroz@gmail.com
